@@ -1,20 +1,4 @@
-,fgksjgs
-g,sjgsmrntjbtrjefdlb
-rtbnkjrtjrtb
-bnrtjbkjndjbnreb
-d,sfbnmdsfbksfb
-bmdsfnbkdfsbsjr bd
-bdfmbkfdsbkjsfbrb
-sdbjksfdbnjtkrb kfdb
-fdbnjkfdnbjmbtrjknbtrlbjnbmdfsb
-sfdmbjktrbm nfdkbb 
-,skjgs
-dsgkdsjgksiojkmreioesdkjkgds
-:qwi
-
-
-:
-
-
-
-
+i = 2
+while True : 
+    print ("arashasadi" + str (i))
+    i = i ** 2
